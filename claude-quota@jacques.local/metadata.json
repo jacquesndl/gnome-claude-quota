@@ -1,0 +1,10 @@
+{
+  "uuid": "claude-quota@jacques.local",
+  "name": "Claude Quota",
+  "description": "Affiche dans la barre du haut le % de la session Claude (5 h) et l'heure du reset ; détail dans le menu.",
+  "shell-version": [
+    "50"
+  ],
+  "version": 1,
+  "url": "https://github.com/jacquesndl/gnome-claude-quota"
+}
